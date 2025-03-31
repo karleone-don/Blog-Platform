@@ -1,6 +1,8 @@
 # Blog-Platform
 Group Members:
 
+Beisembekov Alisher
+
 Tlegenov Abzal
 
 Kaldybayev Nurbol
