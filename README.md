@@ -1,6 +1,6 @@
 # Blog-Platform
 Group Members:
-Tlegenov Abzal
+#Tlegenov Abzal
 FILL YOUR NAMES
 
 Description:
